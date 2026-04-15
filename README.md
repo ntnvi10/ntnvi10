@@ -52,15 +52,20 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ntnvi10&theme=dracula&hide_border=false" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=ntnvi10&theme=dracula&column=-1&row=1" height="150" alt="trophy graph" />
+  <img src="https://streak-stats.demolab.com?user=ntnvi10&theme=dracula" height="150" alt="streak graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ntnvi10&show_icons=true&theme=dracula&count_private=true" height="150" alt="stats card" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntnvi10&layout=compact&theme=dracula&hide_border=false" height="150" alt="top langs" />
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ntnvi10/ntnvi10/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ntnvi10/ntnvi10/output/github-contribution-grid-snake.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ntnvi10/ntnvi10/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ntnvi10/ntnvi10/output/pacman-contribution-graph-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ntnvi10/ntnvi10/output/pacman-contribution-graph.svg?v=1">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ntnvi10/ntnvi10/output/pacman-contribution-graph.svg?v=1">
   </picture>
 </div>
 
